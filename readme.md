@@ -4,6 +4,7 @@
 
 #### Building
 Build this project using Unity version 5.6.0f3
+
 First you'll want to clone the repository
 
 `git clone https://github.com/SEMO-ACM-SIG-AI/FirstProject.git`
